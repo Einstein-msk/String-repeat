@@ -1,0 +1,2 @@
+# String-repeat
+function
